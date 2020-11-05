@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I'm a Computer Science and Engineering Student, Looking for SDE role  
+## I'm a Computer Science and Engineering Student
 
 - 👨‍💻 I’m currently working on web development technologies like Java Spring, JavaScript, React etc.
 - 📚 I’m currently learning everything about Frontend and Backend technologies and Devops 😅
